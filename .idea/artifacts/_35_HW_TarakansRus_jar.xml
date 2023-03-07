@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="_35_HW_TarakansRus:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/_35_HW_TarakansRus_jar</output-path>
+    <root id="archive" name="_35_HW_TarakansRun.jar">
+      <element id="module-output" name="_35_HW_TarakansRun" />
+    </root>
+  </artifact>
+</component>
